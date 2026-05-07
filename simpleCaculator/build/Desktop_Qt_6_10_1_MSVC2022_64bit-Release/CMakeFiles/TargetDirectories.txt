@@ -1,8 +1,0 @@
-F:/Qt/QtProject/simpleCaculator/build/Desktop_Qt_6_10_1_MSVC2022_64bit-Release/CMakeFiles/simpleCaculator.dir
-F:/Qt/QtProject/simpleCaculator/build/Desktop_Qt_6_10_1_MSVC2022_64bit-Release/CMakeFiles/edit_cache.dir
-F:/Qt/QtProject/simpleCaculator/build/Desktop_Qt_6_10_1_MSVC2022_64bit-Release/CMakeFiles/rebuild_cache.dir
-F:/Qt/QtProject/simpleCaculator/build/Desktop_Qt_6_10_1_MSVC2022_64bit-Release/CMakeFiles/list_install_components.dir
-F:/Qt/QtProject/simpleCaculator/build/Desktop_Qt_6_10_1_MSVC2022_64bit-Release/CMakeFiles/install.dir
-F:/Qt/QtProject/simpleCaculator/build/Desktop_Qt_6_10_1_MSVC2022_64bit-Release/CMakeFiles/install/local.dir
-F:/Qt/QtProject/simpleCaculator/build/Desktop_Qt_6_10_1_MSVC2022_64bit-Release/CMakeFiles/simpleCaculator_autogen_timestamp_deps.dir
-F:/Qt/QtProject/simpleCaculator/build/Desktop_Qt_6_10_1_MSVC2022_64bit-Release/CMakeFiles/simpleCaculator_autogen.dir
