@@ -1,2 +1,2 @@
 # simpleCalculator
-A simple calculator that can achieve simple caculate
+A simple calculator that can achieve simple calculate
